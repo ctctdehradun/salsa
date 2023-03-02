@@ -1,4 +1,4 @@
-FROM debian:bullseye-20230208
+FROM debian:11
 
 MAINTAINER Ivan Ermilov <ivan.s.ermilov@gmail.com>
 MAINTAINER Giannis Mouchakis <gmouchakis@iit.demokritos.gr>
