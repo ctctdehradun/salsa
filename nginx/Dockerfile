@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1-bullseye
 
 MAINTAINER "Ivan Ermilov <mailto:ivan.s.ermilov@gmail.com>"
 
